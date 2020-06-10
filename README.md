@@ -1,2 +1,2 @@
 # my-recipe
-Static website built with HTML and CSS
+Static website built with HTML and CSS.
